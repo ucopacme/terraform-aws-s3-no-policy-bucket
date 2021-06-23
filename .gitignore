@@ -1,0 +1,6 @@
+**/.terraform/**
+**/.terragrunt-cache/**
+*.tfstate
+*.tfstate.*
+backend.auto.tf
+provider.auto.tf
